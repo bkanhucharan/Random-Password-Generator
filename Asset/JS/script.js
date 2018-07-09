@@ -1,5 +1,5 @@
 
-    var keylist="abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*"
+    var keylist="abcdefghijklmnopqrstuvwxyz1234567890@#$%^&*"
     var tmp = ''
     function generatepass(plength){
         tmp=''
